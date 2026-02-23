@@ -1,3 +1,4 @@
 facebook-business==19.0.0
 python-dotenv
 pandas
+schedule
